@@ -3,3 +3,69 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+a{
+  
+ padding-left: 10px;
+ padding-right: 10px;
+  background-color: grey;
+  height: fit-content;
+  
+}
+.Links{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+img{
+  margin-left: 210px;
+  margin-right: 400px;
+  
+}
+figcaption{
+  font-size: small;
+ text-align: center;
+}
+.Paragraph-1{
+  padding-left: 370px;
+  padding-right: 370px;
+  text-align: center;
+}
+.Paragraph-2{
+  padding-left: 370px;
+  padding-right: 370px;
+  text-align: center;
+}
+#details{
+  background-color: red;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.Contact {
+  background-color: red;
+  text-align: left;
+  height: fit-content;
+  text-align: center;
+}
+.Correspondence {
+  background-color: red;
+  text-align: center;
+  height: fit-content;
+  text-align: center;
+}
+.Links-2 {
+  background-color: red;
+  text-align: right;
+  height: fit-content;
+  text-align: center;
+}
+.Follow{
+  background-color: red;
+  text-align: center;
+  height: fit-content;
+  text-align: center;
+}
+
